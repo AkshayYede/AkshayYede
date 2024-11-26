@@ -1,18 +1,16 @@
 **Hello, I'm Akshay Yede! 👋**  
 ---
-🚀 Data Science Explorer | Deep Learning Enthusiast | Open for ML Internships
-💡 I’m diving deep into Deep Learning to master neural networks and AI.
+🚀 Data Science Explorer | Machine Learning Enthusiast
+💡 I’m diving deep into Machine Learning and Deep Learning to master neural networks and AI.
 📊 Exploring Machine Learning projects and real-world applications.
 🌱 Growing my skills with Python, SQL, and Data Science Tools.
 🎯 Check out my latest projects here.
-💬 Let’s chat about Data Science, Python, or GitHub—I’d love to help!
-⚡ Fun fact: I can transform messy data into valuable insights!
-📧 Contact me: manishcode123@gmail.com
+📧 Contact me: akshayyede16@gmail.com
 
-### **Interests**  
-- Data Science  
-- Machine Learning  
-- AI  
-- Deep Learning  
-- Model Deployment  
-- AGI
+---
+🔧 Skills
+Languages: Python, SQL
+Data Science Libraries: Pandas, Numpy, Matplotlib, Seaborn
+Machine Learning: Scikit-learn, Regression, Classification, Clustering
+Data Engineering: Data Cleaning, Feature Engineering, EDA
+Tools: Tableau, Power BI, Jupyter Notebook, Excel
