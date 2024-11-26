@@ -1,6 +1,6 @@
 **Hello, I'm Akshay Yede! 👋**  
 ---
-🚀 Data Science Explorer | Machine Learning Enthusiast
+🚀 Data Science Explorer | Machine Learning Enthusiast\n
 💡 I’m diving deep into Machine Learning and Deep Learning to master neural networks and AI.
 📊 Exploring Machine Learning projects and real-world applications.
 🌱 Growing my skills with Python, SQL, and Data Science Tools.
